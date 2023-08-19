@@ -5,7 +5,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://discord.gg/skyforce">Discord</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  [Privacy](./privacy.md)
+  [Privacy](./PRIVACY.md)
   <br />
 </div>
 
